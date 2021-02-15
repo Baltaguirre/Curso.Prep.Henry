@@ -1,0 +1,28 @@
+
+Variables: Una variable es un elemento o una cosa a la que le damos un nombre y un valor para poder usarlo mas tarde. Sería como
+ si tuviéramos los juguetes de una habitación y un mueble con un monton de cajones, bueno, en cada
+cajón (variable) ponemos un juguete (valor), por ejemplo, en un cajón ponemos el camión de bomberos, lo cerramos y en la tapa le pegamos una
+etiqueta (nombre) que dice camión de bomberos y así con todos. De este modo, si, por ejemplo, nos mudamos y queremos
+llevar unos juguetes si y otros no, en vez de ponernos a buscar y separar juguete por juguete llevamos directamente cada 
+cajón porque ya sabemos lo que lleva cada uno en su interior.
+
+Strings
+Un string es un tipo de dato que tiene forma de texto. Puede ser una sola palabra aunque más bien se refiere a una cadena
+o hijo de palabras. Un string es a la vez, como tipo de dato, un tipo de valor que puede asignarse a una variable.
+
+Funciones (argumentos, return)
+Las funciones son tipos de datos, llamados Objetos Invocables, es decir que se pueden "invocar" o llamar y que nos sirven para agrupar un conjunto específico
+de código para no tener que repetirlo cada vez que lo necesitemos, entendiendo código como las ordenes que le damos al interpretador o la computadora para que 
+haga determinada cosa que nosotros queremos que haga. 
+Los argumentos son los valores que le asignamos o que le damos a la función para que determine entre todos estos un resultado en especial, el que esperamos
+que nos devuelva y esto lo hacemos mediante la palabra clave RETURN, que quiere decir devolver.
+
+Declaraciones (IF)
+Son expresiones que se utilizan en funciones donde se establecen determinadas condiciones que se deben cumplir o no para obtener un resultado que 
+consiste en un valor booleano que puede ser true (verdadero) o false (falso)
+
+
+Valores Booleanos (true, false)
+
+Son valores, o bien, resultados que se obtienen como resultado o salida de funciones cuyas declaraciones sean condicionales (if, if else, else). Pueden ser 
+solamente dos resultados, true or false, verdadero o falso, 0 o 1, si o no. 
