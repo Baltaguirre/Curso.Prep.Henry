@@ -1,0 +1,29 @@
+Bucle for
+es una expresion que posee Javascript mediante la cual,
+el codigo se ejecuta de forma repetitiva hasta detenerse
+en un punto asignado por nosotros. Se declara una variable,
+se le asigna un valor, luego la condición de frenado y por 
+último colocamos el numero en que la variable va a ir
+aumentando su valor, el pasaje o la iteración. De esta
+forma, podemos hacer repeticiones sin tener que escribir
+todo el código.
+
+Operadores L+ogicos && || !
+
+Son operadores al igual que los matematícos, aunque 
+estos son booleanos, es decir, trabajan y devuelven
+solamente valores booleanos true or false.
+
+&& es el operador AND (Y) y basicamente es el operador
+de conjunción (si p Y q). Solo retorna true si ambos
+valores lo son, cualquier otra cosa, retorna false.
+
+|| es el operador OR (O) que se refiere a la disyunción
+(si p O q) y solo retorna verdadero si al menos uno de
+los valores lo es, si ambos son false, retorna false.
+
+! es el operador NOT (NO) de negación. Significa que
+estamos negando el valor que está a su derecha, por lo
+que devuelve el valor opuesto.
+!(2 + 2 === 4): FALSE, ya que, aunque 2 + 2 es 4, le dijimos
+que lo niegue al principio.
